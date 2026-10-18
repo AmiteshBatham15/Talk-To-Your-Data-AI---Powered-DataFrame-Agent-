@@ -1,4 +1,3 @@
-
 # Talk to Your Data: AI Powered DataFrame Agent
 
 An AI agent that answers questions about Twitter analytics data in plain English using LangChain and Google Gemini.
@@ -45,3 +44,12 @@ Twitter Analytics dataset with 1000 tweets and 24 columns including likes, retwe
 - Which hour of the day has the highest impressions?
 - What is the total number of retweets?
 - What is the top performing tweet by engagement rate?
+
+
+
+
+## Screenshots
+
+![Question 1](screenshot1.png)
+
+![Question 2](screenshot2.png)

@@ -21,10 +21,11 @@ agent  = create_pandas_dataframe_agent(
 
 def ask(question):
     try:
+        time.sleep(5)
         result = agent.invoke(question)
         return result["output"]
     except Exception as e:
-        return f"Error: {e}"
+        return "Gemini rate limit reached. Please wait 1 minute and try again."
     
 app = gr.Interface(
     fn = ask,
