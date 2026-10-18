@@ -50,6 +50,6 @@ Twitter Analytics dataset with 1000 tweets and 24 columns including likes, retwe
 
 ## Screenshots
 
-![Question 1](screenshot1.png)
+![Average Likes](screenshot1.png)
 
-![Question 2](screenshot2.png)
+![Engagement Rate](screenshot2.png)
