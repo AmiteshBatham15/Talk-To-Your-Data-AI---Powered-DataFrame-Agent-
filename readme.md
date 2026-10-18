@@ -1,5 +1,10 @@
 # Talk to Your Data: AI Powered DataFrame Agent
 
+
+
+> Ask any question about your data in plain English — no coding required.
+>
+
 An AI agent that answers questions about Twitter analytics data in plain English using LangChain and Google Gemini.
 
 ## What it does
@@ -46,6 +51,10 @@ Twitter Analytics dataset with 1000 tweets and 24 columns including likes, retwe
 - What is the top performing tweet by engagement rate?
 
 
+
+## Why I built this
+
+Most people can't write Pandas code to analyse data. This agent lets anyone ask questions about a dataset in plain English and get instant answers. Built as part of my Gen AI learning journey.
 
 
 ## Screenshots
